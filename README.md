@@ -34,6 +34,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql&logoColor=007ACC)&nbsp;
 ![C#](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png)&nbsp;
+<img src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&amp;style=for-the-badge&amp;logoColor=purple" style="max-width: 100%;">
 
 
 
