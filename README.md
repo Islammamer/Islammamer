@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/islam-salaheldin-amer/" target="_blank"><img src="https://img.shields.io/badge/-Islam%20Amer-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>  <a href="https://github.com/Islammamer" target="_blank"><img src="https://img.shields.io/badge/-Islam%20Amer-000000?style=for-the-badge&logo=github&logoColor=white"/></a>  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Islam%20Amer-e00000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/islam-salaheldin-amer/" target="_blank"><img src="https://img.shields.io/badge/-Islam%20Amer-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>  <a href="https://github.com/Islammamer" target="_blank"><img src="https://img.shields.io/badge/-Islam%20Amer-000000?style=for-the-badge&logo=github&logoColor=white"/></a>  <a href="" target="_blank"><img src="https://img.shields.io/badge/-islamamer2013@gmail.com-e00000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
