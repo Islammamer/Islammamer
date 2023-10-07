@@ -29,7 +29,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![asp.et](https://img.shields.io/badge/-asp.net-05122A?style=flat&logo=asp.net&logoColor=339933)&nbsp;
-![C#];
+![C#]&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
